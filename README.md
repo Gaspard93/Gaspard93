@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 where to find me
-[Twitter] (https://twitter.com/MGW_TheMan)
+- Twitter: https://twitter.com/MGW_TheMan
